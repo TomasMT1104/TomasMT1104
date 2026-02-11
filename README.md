@@ -2,7 +2,7 @@
 <h3 align="center">Systems Engineering Student | Aspiring Backend & Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Aspiring+Backend+Developer;Java+%7C+Python+%7C+JavaScript;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bienvenidos+a+mi+GitHub;Systems+Engineering+Student;Aspiring+Backend+%26+Fullstack+Developer;Form%C3%A1ndome+para+ser+un+profesional+integral+en+Ingenier%C3%ADa+de+Sistemas" />
 </p>
 
 ---
@@ -13,8 +13,15 @@
 const tomas = {
   location: "Colombia 🇨🇴",
   currently: "Studying Systems Engineering",
-  interests: ["Backend Development", "System Architecture", "Fullstack Applications"],
-  learning: "Building solid foundations to become a professional Backend & Fullstack Developer"
+  professionalGoal: "Becoming a well-rounded Systems Engineer ready to enter the professional world",
+  focus: [
+    "Backend Development",
+    "System Architecture",
+    "Software Engineering Principles",
+    "Problem Solving",
+    "Continuous Learning"
+  ],
+  mindset: "Preparing not only to code, but to understand and build complete systems"
 };
 ```
 
@@ -29,9 +36,13 @@ const tomas = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/StarUML-FF6F00?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -64,3 +75,4 @@ const tomas = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TomasMT1104&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
+
