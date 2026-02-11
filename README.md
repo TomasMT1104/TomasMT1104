@@ -2,7 +2,7 @@
 <h3 align="center">Systems Engineering Student | Aspiring Backend & Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bienvenidos+a+mi+GitHub;Systems+Engineering+Student;Aspiring+Backend+%26+Fullstack+Developer;Form%C3%A1ndome+para+ser+un+profesional+integral+en+Ingenier%C3%ADa+de+Sistemas" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Systems+Engineering+Student;Aspiring+Backend+%26+Fullstack+Developer;" />
 </p>
 
 ---
@@ -75,4 +75,3 @@ const tomas = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TomasMT1104&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
-
