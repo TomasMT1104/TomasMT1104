@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tomás Marín Toro</h1>
-<h3 align="center">Systems Engineering Student | Backend & Fullstack Developer</h3>
+<h3 align="center">Systems Engineering Student | Aspiring Backend & Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Fullstack+Builder;Java+%7C+JavaScript+%7C+Spring+Boot;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Aspiring+Backend+Developer;Java+%7C+Python+%7C+JavaScript;Always+learning+new+technologies" />
 </p>
 
 ---
@@ -12,8 +12,9 @@
 ```js
 const tomas = {
   location: "Colombia 🇨🇴",
-  code: ["Java", "JavaScript"],
-  focus: "Building solid backend systems and scalable applications",
+  currently: "Studying Systems Engineering",
+  interests: ["Backend Development", "System Architecture", "Fullstack Applications"],
+  learning: "Building solid foundations to become a professional Backend & Fullstack Developer"
 };
 ```
 
@@ -26,21 +27,18 @@ const tomas = {
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/StarUML-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TomasMT1104&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMT1104&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
